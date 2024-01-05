@@ -13,6 +13,9 @@
     "server": "npm start"
   },
 
+  // Chave VARIANT aqui
+  "VARIANT": "18.9-bullseye",
+
   // Configure tool-specific properties.
   "customizations": {
     // Configure properties specific to VS Code.
@@ -23,7 +26,8 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "oderwat.indent-rainbow"
       ]
     }
   },

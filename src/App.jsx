@@ -10,7 +10,7 @@ import Header from "./Components/Header";
 const App = () => {
   return (
     <>
-      <Header />
+      <Header title="Title of Header" subtitle="Subtitle of header" />
       <h3>Built using Codespaces! 🥳</h3>
       <p>Follow instructions in README to utilize this template for your site or class.</p>
     </>
